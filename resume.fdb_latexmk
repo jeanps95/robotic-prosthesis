@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1595435600 "/home/jean/robotic-prosthesis/resume.tex" "/home/jean/robotic-prosthesis/resume.pdf" "resume" 1595435601
+["pdflatex"] 1595436768 "/home/jean/robotic-prosthesis/resume.tex" "/home/jean/robotic-prosthesis/resume.pdf" "resume" 1595436769
   "/etc/texmf/web2c/texmf.cnf" 1594656505 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jean/robotic-prosthesis/resume.aux" 1595435601 3486 60e004b2d16b914a594fcd554489e1e8 ""
-  "/home/jean/robotic-prosthesis/resume.tex" 1595435599 7750 62ad4496ee1f8ac13f346ae1c511e1e6 ""
+  "/home/jean/robotic-prosthesis/resume.aux" 1595436769 3486 d8daf02cf1d806f2968668a19a31603d ""
+  "/home/jean/robotic-prosthesis/resume.tex" 1595436768 7577 df9a6ccc17009f4140b9a3bbc6e23a42 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_dhi6qf.enc" 1558472472 2914 3d1e3c4123f03ab27df5767d5039d109 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc" 1490131464 3357 5261ce65ba03aef9faf6135657b9abb6 ""
@@ -104,13 +104,13 @@
   "images/ariribeiro.png" 1595434481 1147608 5b520274b83a2d2c181385a5e4e18524 ""
   "images/ariribeiro2.png" 1595434604 1078472 31b301e0b874dd7c17f4ba6bca2b0151 ""
   "images/exoesq.png" 1595434513 576934 fd41059889ee89855d57dd2833aca7b1 ""
-  "resume.aux" 1595435601 3486 60e004b2d16b914a594fcd554489e1e8 "pdflatex"
-  "resume.out" 1595435601 782 dd47aaf4819d6635408dc75623326d38 "pdflatex"
-  "resume.tex" 1595435599 7750 62ad4496ee1f8ac13f346ae1c511e1e6 ""
+  "resume.aux" 1595436769 3486 d8daf02cf1d806f2968668a19a31603d "pdflatex"
+  "resume.out" 1595436769 782 dd47aaf4819d6635408dc75623326d38 "pdflatex"
+  "resume.tex" 1595436768 7577 df9a6ccc17009f4140b9a3bbc6e23a42 ""
   (generated)
-  "resume.log"
-  "resume.aux"
   "resume.out"
+  "resume.aux"
   "/home/jean/robotic-prosthesis/resume.log"
   "resume.pdf"
   "/home/jean/robotic-prosthesis/resume.pdf"
+  "resume.log"
